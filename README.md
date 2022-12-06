@@ -19,12 +19,12 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<!-- <table><tr><td valign="top" width="33%"> -->
+<div style="display:flex;flex-direction:row;justify-content:space-between">
 
 
-
-### Frontend  
-<div align="center" style="border-style:solid;border-radius:10px;-webkit-box-shadow: 1px 3px 15px 2px #000000; box-shadow: 1px 3px 15px 2px #000000;">  
+<div align="" style="border-style:solid;border-radius:10px;padding:5px;margin:2px;-webkit-box-shadow: 1px 3px 15px 2px #000000; box-shadow: 1px 3px 15px 2px #000000;">  
+<h3>front end</h3>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -39,12 +39,10 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+<!-- </td><td valign="top" width="33%"> -->
 
-
-
-### Backend  
-<div align="center" style="border-style:solid;border-radius:10px;-webkit-box-shadow: 1px 3px 15px 2px #000000; box-shadow: 1px 3px 15px 2px #000000;">  
+<div align="" style="border-style:solid;border-radius:10px;padding:5px;margin:2px;-webkit-box-shadow: 1px 3px 15px 2px #000000; box-shadow: 1px 3px 15px 2px #000000;">  
+<h3>back end</h3>
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
   <a href="https://httpd.apache.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" alt="APACHE" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -58,10 +56,10 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+<!-- </td><td valign="top" width="33%"> -->
 
-</td></tr></table>  
-
+<!-- </td></tr></table>   -->
+</div>
 <br/>  
 
 
